@@ -27,7 +27,7 @@
 //     console.log("Hello " + name + "!");
 // }
 
-// To use a function, we "invoke" it by writing the name of the function followed by parentheses and any parameters we need to provide.
+// To use a function, we "invoke" or "call" it by writing the name of the function followed by parentheses and any parameters we need to provide.
 //////////// COMMENT IN LINE 30 ////////////
 // greeting("Ben");
 
